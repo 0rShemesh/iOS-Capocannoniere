@@ -11,7 +11,7 @@ Running  [Checkm8 exploit](Checkm8%20exploit.md) exploit first time.
 
 ## Steps
 - [x] buy 2nd *Phone vulnerable to checkm8
-- [x] exploit the *Phone [Checkm8 exploit](Checkm8%20exploit#exploiting-the-device)
+- [x] exploit the *Phone [Checkm8 exploit](Checkm8%20exploit.md#exploiting%20the%20device)
 	install list:
 	- [x] ssh
 	- [x] oh-my-zsh
