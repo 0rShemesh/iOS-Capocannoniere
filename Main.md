@@ -11,7 +11,7 @@ Running  [Checkm8 exploit](Checkm8%20exploit.md) exploit first time.
 
 ## Steps
 - [x] buy 2nd *Phone vulnerable to checkm8
-- [x] exploit the *Phone [Checkm8 exploit](Checkm8 exploit#exploiting the device)
+- [x] exploit the *Phone [Checkm8 exploit](Checkm8%20exploit#exploiting%20the%20device)
 	install list:
 	- [x] ssh
 	- [x] oh-my-zsh
@@ -20,7 +20,7 @@ Running  [Checkm8 exploit](Checkm8%20exploit.md) exploit first time.
 	- [x] git 
 	- [x] clang
 	- [x] 
-- [ ] read about [iBoot](http://newosxbook.com/bonus/iBoot.pdf)
+- [x] read about [iBoot](http://newosxbook.com/bonus/iBoot.pdf)
 - [ ] read about checkm8 in depth
 - [ ] 
 
