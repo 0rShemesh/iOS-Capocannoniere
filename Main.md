@@ -1,14 +1,43 @@
-My main goal is to learn and have a-lot of knowledge about iOS.  
-SO for new comers like me i want to document all my steps I'm doing for taking some inspiration or learn from my mistakes 😜
+My main goal is to learn and have a-lot of knowledge about iOS.    
+SO for new comers like me i want to document all my steps I'm doing for taking  some inspiration or learn from my mistakes 😜  
 
-Join to my journey! 
+Join to my journey!   
 
 ![](Photos/Checkm8.png)
-This is me running [Checkm8 exploit](Checkm8%20exploit.md) exploit for my first time
+Running  [Checkm8 exploit](Checkm8%20exploit.md) exploit first time.
 
 
-How to get in touch with me:
-Twitter (X)🐦:
-https://twitter.com/0rShemesh_
-E-Mail ✉️:
-0rshemesh@proton.me
+# Milestone
+
+## Steps
+- [x] buy 2nd *Phone vulnerable to checkm8
+- [x] exploit the *Phone [Checkm8 exploit](Checkm8 exploit#exploiting the device)
+	install list:
+	- [x] ssh
+	- [x] oh-my-zsh
+	- [x] python
+		- [x] IPython
+	- [x] git 
+	- [x] clang
+	- [x] 
+- [ ] read about [iBoot](http://newosxbook.com/bonus/iBoot.pdf)
+- [ ] read about checkm8 in depth
+- [ ] 
+
+
+## Hardware and tools
+- [x] Buy an exploitable IPhone 
+	- [easiest way is vulnerable to checkm8](Vulnerable%20to%20checkm8%20device%20list.md) (CVE-2019-8900) (A8-A11 cp)
+	- Got 2nd hand *Phone X 256GB iOS 16.7.5 - 220 $
+- [ ] Tamarin cable
+
+
+## 
+
+
+
+# Reach me at
+* Twitter (X)🐦:  
+	https://twitter.com/0rShemesh_
+* E-Mail ✉️:
+	0rshemesh@proton.me
