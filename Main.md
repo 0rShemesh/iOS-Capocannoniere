@@ -21,7 +21,14 @@ Running  [Checkm8 exploit](Checkm8%20exploit.md) exploit first time.
 	- [x] clang
 	- [x] 
 - [x] read about [iBoot](http://newosxbook.com/bonus/iBoot.pdf)
-- [ ] read about checkm8 in depth
+- [x] read about checkm8 in depth
+	- Because I'm pretend not to be skid so I need to understand how its works
+	- [ ] maybe try to exploit by myself?
+	- [ ] 
+- [ ] search about some exploits that was in the wild
+	- [ ] [Cytrox](Offensive%20Security%20Private%20Companies/Cytrox.md) exploit
+	- [ ] [NSO](Offensive%20Security%20Private%20Companies/NSO.md) exploits
+	- [ ] 
 - [ ] 
 
 
