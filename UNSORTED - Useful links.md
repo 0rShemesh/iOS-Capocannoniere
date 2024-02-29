@@ -19,3 +19,8 @@ https://gist.github.com/littlelailo/42c6a11d31877f98531f6d30444f59c4#file-apollo
 
 how to extract SecureROM:
 https://web.archive.org/web/20190320093901/https://ramtin-amin.fr/nvmedma.html
+
+
+Virtual memory on Apple devices
+
+https://developer.apple.com/library/mac/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html
