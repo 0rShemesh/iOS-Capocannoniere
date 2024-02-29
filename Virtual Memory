@@ -1,0 +1,4 @@
+
+
+## read only text section
+iPhone applications, read-only data that is already on the disk (such as code pages) is simply removed from memory and reloaded from disk as needed
