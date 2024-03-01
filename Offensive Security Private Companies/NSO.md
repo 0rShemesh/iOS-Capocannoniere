@@ -5,6 +5,9 @@ The biggest and the professional one i guess.
  NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains
  https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/
 
+CVE-2021-30860 - 
+ https://objective-see.org/blog/blog_0x67.html
+
 
 ## FORCEDENTRY
 NSO Group iMessage Zero-Click Exploit Captured in the Wild
