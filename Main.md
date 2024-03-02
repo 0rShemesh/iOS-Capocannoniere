@@ -29,7 +29,9 @@ Running  [Checkm8 exploit](Checkm8%20exploit.md) exploit first time.
 	- [ ] [Cytrox](Offensive%20Security%20Private%20Companies/Cytrox.md) exploit
 	- [ ] [NSO](Offensive%20Security%20Private%20Companies/NSO.md) exploits
 	- [ ] 
-- [ ] 
+- [ ] Install frida
+	- [ ] [Running Frida for first time](Frida/Running%20Frida%20for%20first%20time.md)
+	- [ ] try to strace
 
 
 ## Hardware and tools
