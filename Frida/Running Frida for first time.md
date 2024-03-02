@@ -16,6 +16,6 @@ Yay now lets just try frida by running:
 ```
 frida-ps -R
 ```
-![](Photos/Pasted%20image%2020240302155955.png)
+![](../Photos/Pasted%20image%2020240302155955.png)
 works! 
 
